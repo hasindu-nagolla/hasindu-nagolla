@@ -1,27 +1,19 @@
-# 👋 Hello World, I'm John Doe!
+# 👋 Hello World, I'm Hasindu Lakshan!
 
 ## 🚀 About Me
-I'm a software engineer passionate about building scalable web applications and exploring the latest technologies. I enjoy solving complex problems and constantly challenge myself to learn new things.
+I'm a Software Engineering student at the Open University of Sri Lanka
 
 ## 🔧 Technologies & Tools
-- Languages: JavaScript, Python, Java
-- Frameworks: React.js, Node.js, Flask
-- Databases: MongoDB, PostgreSQL
-- Tools & Technologies: Git, Docker, AWS
-
-## 💼 Projects
-Here are a few projects I've worked on:
-- [E-commerce Website](https://github.com/johndoe/ecommerce): An online store built with React.js and Node.js.
-- [Recipe App](https://github.com/johndoe/recipe-app): A web application for sharing and discovering recipes, developed with React.js and MongoDB.
-- [Personal Blog](https://github.com/johndoe/blog): My personal blog where I share my thoughts and experiences as a developer.
+- Languages: JavaScript, Java
+- Frameworks: React.js, Node.js
+- Databases: MongoDB
+- Tools & Technologies: Git, Docker
 
 ## 🌱 Currently Learning
-I'm currently focusing on learning GraphQL to enhance my skills in API development and exploring serverless architecture using AWS Lambda.
+I'm currently focusing on learning more about both front-end, back-end development and efficient API development.
 
 ## 📫 Let's Connect
-- LinkedIn: [John Doe](https://www.linkedin.com/in/johndoe/)
-- Twitter: [@johndoe_dev](https://twitter.com/johndoe_dev)
-- Website: [johndoe.dev](https://www.johndoe.dev/)
+- LinkedIn: [Hasindu Lakshan](https://www.linkedin.com/in/hasindulakshan/)
 
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
+I'm always open to engaging in meaningful discussions and learning together.
 
