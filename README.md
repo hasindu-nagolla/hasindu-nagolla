@@ -14,7 +14,7 @@
 
 ## 📫 Let's Connect
 #### - LinkedIn: [Hasindu Lakshan](https://www.linkedin.com/in/hasindulakshan/)
-#### - FaceBook: [Hasindu Lakshan](https://www.facebook.com/hasindu.lakshan.1272)
+#### - Facebook: [Hasindu Lakshan](https://www.facebook.com/hasindu.lakshan.1272)
 
 #### I'm always open to engaging in meaningful discussions and learning together.
 
