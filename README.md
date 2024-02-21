@@ -1,4 +1,4 @@
-# 👋 Hello World, I'm Hasindu Lakshan!
+## Hello, I'm Hasindu Lakshan! 👋
 
 ## 🚀 About Me
 #### I'm a Software Engineering student at the Open University of Sri Lanka
