@@ -1,7 +1,7 @@
 ## Hello, I'm Hasindu Lakshan! 👋
 
 ### 🚀 About Me
-#### A student at the Open University of Sri Lanka<br>#### BSE (UG)
+#### A student at the Open University of Sri Lanka<br>BSE (UG)
 
 ### 🔧 Technologies & Tools
 #### - Technology: MERN Stack
