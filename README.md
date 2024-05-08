@@ -1,18 +1,17 @@
 ## Hello, I'm Hasindu Lakshan! 👋
 
-## 🚀 About Me
-#### I'm a Software Engineering student at the Open University of Sri Lanka
+### 🚀 About Me
+#### A student at the Open University of Sri Lanka
+#### BSE (UG)
 
-## 🔧 Technologies & Tools
-#### - Languages: JavaScript, Java
-#### - Frameworks: React.js, Node.js
-#### - Databases: MongoDB
-#### - Tools & Technologies: Git, Docker
+### 🔧 Technologies & Tools
+#### - Technology: MERN Stack
+#### - Tools: VS Code, Git, Docker
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 #### I'm currently focusing on learning more about both front-end, back-end development and efficient API development.
 
-## 📫 Let's Connect
+### 📫 Let's Connect
 #### - LinkedIn: [Hasindu Lakshan](https://www.linkedin.com/in/hasindulakshan/)
 #### - Facebook: [Hasindu Lakshan](https://www.facebook.com/hasindu.lakshan.1272)
 
