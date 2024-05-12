@@ -4,7 +4,7 @@
 #### Student at the Open University of Sri Lanka<br>BSE (UG)
 
 ### 🔧 Technologies & Tools
-#### - Technology: MERN Stack<br>- Tools: VS Code, Git, Docker
+#### - Technology: MERN Stack (MongoDB, Express.js, React.js, Node.js)<br>- Tools: VS Code, Git, Docker
 
 ### 🌱 Currently Learning
 #### I'm currently focusing on learning more about both front-end, back-end development and efficient API development.
