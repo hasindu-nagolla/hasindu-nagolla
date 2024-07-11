@@ -35,7 +35,7 @@
   </a>
 </p>
 
-<h3 align="left">Frontend Development:</h3>
+<h3 align="left">Frontend & Backend:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="30"/>
@@ -49,10 +49,6 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/>
   </a>
-</p>
-
-<h3 align="left">Backend Development:</h3>
-<p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="30"/>
   </a>
@@ -60,6 +56,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="30"/>
   </a>
 </p>
+
+
 
 <h3 align="left">Database Management:</h3>
 <p align="left">
