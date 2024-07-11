@@ -9,8 +9,6 @@
 - 💻 **Technology**: MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - 💬 Always open to engaging in meaningful discussions and learning together.
 
-- 💻 Technology Stack **MERN**
-
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hasindulakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasindulakshan" height="30" width="40" /></a>
