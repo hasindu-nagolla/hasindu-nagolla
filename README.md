@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Hasindu Lakshan</h1>
-<h3 align="center">Focusing on learning more about both front-end, back-end development and efficient API development.</h3>
+# Hello, I'm Hasindu Lakshan! 👋
 
 
+<h3 align="left">About Me 🚀:</h3>
 
-- 🔭 I’m studying at **The Open University of Sri Lanka**
-
-- 🌱 I’m currently learning **Reactjs, Nodejs**
+- 🎓 **Student at the Open University of Sri Lanka**
+- 📚 **BSE (UG)**
+- 🌱 Currently focusing on learning more about both front-end, back-end development and efficient API development.
+- 💻 **Technology**: MERN Stack (MongoDB, Express.js, React.js, Node.js)
+- 💬 Always open to engaging in meaningful discussions and learning together.
 
 - 💻 Technology Stack **MERN**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hasindulakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasindulakshan" height="30" width="40" /></a>
 <a href="https://fb.com/hasindu.lakshan.1272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hasindu.lakshan.1272" height="30" width="40" /></a>
