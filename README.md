@@ -57,8 +57,6 @@
   </a>
 </p>
 
-
-
 <h3 align="left">Database Management:</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -87,7 +85,6 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="30"/>
   </a>
 </p>
-
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasindunagolla&show_icons=true&locale=en&layout=compact" alt="hasindunagolla" /></p>
