@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasindu Lakshan 👋</h1>
+<h1 align="center">Hi 👋, I'm Hasindu Lakshan</h1>
 <h3 align="center">Focusing on learning more about both front-end, back-end development and efficient API development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasindunagolla&label=Profile%20views&color=0e75b6&style=flat" alt="hasindunagolla" /> </p>
