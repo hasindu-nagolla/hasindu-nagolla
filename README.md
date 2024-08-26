@@ -1,6 +1,4 @@
-<a href="https://www.youtube.com/watch?v=SDkAGkd4NLc">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG height="10">
-</a>
+
 ## Hello, I'm Hasindu Lakshan! 👋
 ### 🚀 About Me
 - 🎓 **Student at the Open University of Sri Lanka**
