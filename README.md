@@ -1,4 +1,4 @@
-<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Profile Image" />
+<img align="right" width="120" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Profile Image" />
 
 
 ### Hello, I'm Hasindu Lakshan!
