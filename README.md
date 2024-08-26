@@ -1,4 +1,4 @@
-<img align="right" width="100" src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" alt="Profile Image" />
+<img align="right" width="170" src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" alt="Profile Image" />
 
 ### Hello, I'm Hasindu Lakshan!
 - ##### BSE (UG)
