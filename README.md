@@ -8,9 +8,6 @@
 
 - #### [**LinkedIn**](https://www.linkedin.com/in/hasindulakshan/) & [**Facebook**](https://www.facebook.com/hasindu.lakshan.1272): Hasindu Lakshan
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hasindulakshan&theme=default&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasindulakshan&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
+
 
 ### I'm always open to engaging in meaningful discussions and learning together. 
