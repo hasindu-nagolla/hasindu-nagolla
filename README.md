@@ -2,7 +2,7 @@
 
 - #### BSE (UG)
 
-<img align="right" width="190" src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" alt="Profile Image"/>
+<img align="right" width="180" src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" alt="Profile Image"/>
 
 - #### Technologies: MERN Stack, Python, PostgreSQL, Git, Postman
 
