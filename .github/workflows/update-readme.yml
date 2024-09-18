@@ -39,7 +39,7 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'hasindulakshan0040@gmail.com'
+          git config --global user.email 'github-actions@users.noreply.github.com'
           git add README.md
           git diff --cached --exit-code || (git commit -m "Update README with GitHub stats" && echo "Changes committed.")
           git push || echo "Failed to push changes."
