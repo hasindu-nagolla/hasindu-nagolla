@@ -12,10 +12,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Updated to the latest version
 
       - name: Update README with GitHub Stats
         run: |
+          # Fetch the README content
+          curl -O https://raw.githubusercontent.com/hasindulakshan/hasindulakshan/main/README.md
+
           # Create updated README content
           echo '## Hello, I'\''m Hasindu Lakshan!' > README.md
           echo '' >> README.md
@@ -39,5 +42,5 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'hasindulakshan0040@gmail.com'
           git add README.md
-          git commit -m "Update README with GitHub stats"
+          git commit -m "Update README with GitHub stats" || echo "No changes to commit"
           git push
