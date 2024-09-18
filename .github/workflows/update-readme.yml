@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 * * * *'  # This runs the job every hour (adjust as needed)
+    - cron: '0 * * * *'  # Runs every hour, adjust as needed
 
 jobs:
   update-readme:
@@ -14,15 +14,22 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: GitHub Readme Stats
+      - name: Update README with GitHub Stats
         run: |
-          curl "https://github-readme-stats.vercel.app/api?username=hasindulakshan&token=${{ secrets.GH_TOKEN }}" > README.md
-          curl "https://github-readme-stats.vercel.app/api/top-langs/?username=hasindulakshan&layout=compact&token=${{ secrets.GH_TOKEN }}" >> README.md
+          curl "https://github-readme-stats.vercel.app/api?username=hasindulakshan&theme=default&hide_border=false&include_all_commits=true&count_private=true&token=${{ secrets.GH_TOKEN }}" > temp-stats.png
+          curl "https://github-readme-stats.vercel.app/api/top-langs/?username=hasindulakshan&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&token=${{ secrets.GH_TOKEN }}" > temp-langs.png
+          # Update README file with new stats
+          sed -i '/<img id="github-stats" /d' README.md
+          sed -i '/<img id="top-langs" /d' README.md
+          echo '<p>' >> README.md
+          echo '  <img id="github-stats" height="150" src="https://github-readme-stats.vercel.app/api?username=hasindulakshan&theme=default&hide_border=false&include_all_commits=true&count_private=true&token=${{ secrets.GH_TOKEN }}" />' >> README.md
+          echo '  <img id="top-langs" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasindulakshan&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&token=${{ secrets.GH_TOKEN }}" />' >> README.md
+          echo '</p>' >> README.md
 
-      - name: Commit and Push changes
+      - name: Commit and Push Changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m "Updated README with stats"
+          git commit -m "Update README with GitHub stats"
           git push
