@@ -8,10 +8,9 @@
 
 - #### Connect: [**LinkedIn**](https://www.linkedin.com/in/hasindulakshan/)
 
-<!-- GitHub Stats and Top Languages Side by Side -->
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hasindulakshan&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasindulakshan&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&token=YOUR_PERSONAL_ACCESS_TOKEN" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hasindulakshan&theme=default&hide_border=false&include_all_commits=true&count_private=true&token=${{secrets.GH_TOKEN}}" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasindulakshan&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&token=${{secrets.GH_TOKEN}}" />
 </p>
 
 ### I'm always open to engaging in meaningful discussions and learning together.
