@@ -1,18 +1,16 @@
+#### Hello, I'm Hasindu Lakshan
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello%2C+I'm+Hasindu+Lakshan" width="70%"  />
-</div>
-
-- #### BSE (UG)
+- #### <p style="margin: 0;">BSE (UG)</p>
 
 <img align="right" width="180" src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" alt="Profile Image"/>
 
-- #### Technologies: MERN Stack, Python, PostgreSQL, Git, Postman
-- #### Connect: [**LinkedIn**](https://www.linkedin.com/in/hasindulakshan/)
+- #### <p style="margin: 0;">Technologies: MERN Stack, Python, PostgreSQL, Git, Postman</p>
+- #### <p style="margin: 0;">Connect: <a href="https://www.linkedin.com/in/hasindulakshan/">**LinkedIn**</a></p>
+
 <p>
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=hasindulakshan&show_icons=true&bg_color=00000000&hide_border=true&token=secrets.GH_TOKEN" />                                 
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasindulakshan&bg_color=00000000&hide_border=true&layout=compact&token=secrets.GH_TOKEN" />
 </p>
 
-- #### I'm always open to engaging in meaningful discussions and learning together.
+#### I'm always open to engaging in meaningful discussions and learning together.
 
