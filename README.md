@@ -9,9 +9,10 @@
 - #### Connect: [**LinkedIn**](https://www.linkedin.com/in/hasindulakshan/)
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hasindulakshan&show_icons=true&bg_color=00000000&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasindulakshan&bg_color=00000000&hide_border=true&layout=compact" />
 </p>
+
 
 
 
