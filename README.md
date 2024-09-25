@@ -9,8 +9,11 @@
 - #### Connect: [**LinkedIn**](https://www.linkedin.com/in/hasindulakshan/)
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hasindulakshan&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasindulakshan&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hasindulakshan&show_icons=true&bg_color=00000000&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasindulakshan&bg_color=00000000&hide_border=true&layout=compact" />
 </p>
+
+
+
 
 ### I'm always open to engaging in meaningful discussions and learning together.
