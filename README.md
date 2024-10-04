@@ -7,9 +7,15 @@
 
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hasindulakshan&show_icons=true&bg_color=00000000&hide_border=true&token=secrets.GH_TOKEN" />                                 
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hasindulakshan&show_icons=true&bg_color=00000000&hide_border=true&token=secrets.GH_TOKEN" />                        
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasindulakshan&bg_color=00000000&hide_border=true&layout=compact&token=secrets.GH_TOKEN" />
 </p>
 
 ### I'm always open to engaging in meaningful discussions and learning together.
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasindulakshan)
+
+
+
+
 
