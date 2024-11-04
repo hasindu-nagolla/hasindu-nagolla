@@ -2,7 +2,7 @@
 
 ### Hello, I'm Hasindu Lakshan
 - #### <p style="margin: 0;">Bachelor of Software Engineering (UG)</p>
-- #### <p style="margin: 0;">Technologies: MERN Stack, Python, PostgreSQL, Git, Postman</p>
+- #### <p style="margin: 0;">Technologies & Tools: MERN Stack, Python, PostgreSQL, Git, Postman</p>
 - #### <p style="margin: 0;">Connect: <a href="https://www.linkedin.com/in/hasindulakshan/">**LinkedIn**</a></p>
 
 <p>
