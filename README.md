@@ -13,7 +13,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasindulakshan&bg_color=00000000&hide_border=true&layout=compact&token=secrets.GH_TOKEN" />
 </div>
 
-<img height="170" width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=hasindulakshan&radius=16&theme=react&bg_color=00000000&hide_border=true" alt="activity-graph graph" />
+<img height="200" width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=hasindulakshan&radius=16&theme=react&bg_color=00000000&hide_border=true" alt="activity-graph graph" />
 
 
 ### I'm always open to engaging in meaningful discussions and learning together.
