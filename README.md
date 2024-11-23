@@ -5,9 +5,18 @@
 - #### <p style="margin: 0;">Technologies & Tools: MERN Stack, Python, PostgreSQL, Git, Postman</p>
 - #### <p style="margin: 0;">Connect: <a href="https://www.linkedin.com/in/hasindulakshan/">**LinkedIn**</a></p>
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hasindulakshan&show_icons=true&bg_color=00000000&hide_border=true&token=secrets.GH_TOKEN" />                  
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <!-- GitHub Stats -->
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=hasindulakshan&show_icons=true&bg_color=00000000&hide_border=true&token=secrets.GH_TOKEN" />
+
+  <!-- Most Used Languages -->
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasindulakshan&bg_color=00000000&hide_border=true&layout=compact&token=secrets.GH_TOKEN" />
-</p>
+</div>
+
+<img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=hasindulakshan&radius=16&theme=react&bg_color=00000000&hide_border=true" alt="activity-graph graph" />
+
 
 ### I'm always open to engaging in meaningful discussions and learning together.
+
+
+
