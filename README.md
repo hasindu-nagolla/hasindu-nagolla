@@ -13,7 +13,9 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasindulakshan&bg_color=00000000&hide_border=true&layout=compact&token=secrets.GH_TOKEN" />
 </div>
 
-<img height="190" width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=hasindulakshan&radius=16&theme=github-light&bg_color=00000000&hide_border=true" alt="activity-graph graph" />
+<img height="300" width="650" src="https://github-readme-activity-graph.vercel.app/graph?username=hasindulakshan&radius=16&theme=github-light&bg_color=00000000&hide_border=true&custom_title=Hasindu%20Lakshan%27s%20Contribution%20Graph" alt="activity-graph graph" />
+
+
 
 
 
