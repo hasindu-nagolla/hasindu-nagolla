@@ -2,20 +2,31 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/hasindu-nagolla">
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-stats-tikr-1zwp4ysh2-silenzciences-projects.vercel.app/api?username=hasindu-nagolla&count_private=true&show_icons=true&include_all_commits=true&custom_title=Hmm%2C+interesting&theme=github_dark&hide_border=true">
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-stats-tikr-1zwp4ysh2-silenzciences-projects.vercel.app/api?username=hasindu-nagolla&count_private=true&show_icons=true&include_all_commits=true&custom_title=Hmm%2C+interesting&theme=default&hide_border=true">
           <img
-            src="https://github-readme-stats-tikr-1zwp4ysh2-silenzciences-projects.vercel.app/api?username=hasindu-nagolla&count_private=true&show_icons=true&include_all_commits=true&custom_title=Hmm%2C+interesting&hide_border=true&bg_color=00000000"
-            alt="GitHub Stats"
-          />
-        </a>
+            src="https://github-readme-stats-tikr-1zwp4ysh2-silenzciences-projects.vercel.app/api?username=hasindu-nagolla&count_private=true&show_icons=true&include_all_commits=true&custom_title=Hmm%2C+interesting&theme=default&hide_border=true"
+            alt="GitHub Stats">
+        </picture>
       </td>
+
       <td>
-        <a href="https://github.com/AnonymousX1025">
+        <picture>
+          <source
+            media="(prefers-color-scheme: dark)"
+            srcset="https://github-readme-streak-stats-eight.vercel.app?user=AnonymousX1025&theme=github-dark-blue&hide_border=true">
+          <source
+            media="(prefers-color-scheme: light)"
+            srcset="https://github-readme-streak-stats-eight.vercel.app?user=AnonymousX1025&theme=default&hide_border=true">
           <img
-            src="https://github-readme-streak-stats-eight.vercel.app?user=AnonymousX1025&hide_border=true&background=00000000&fire=FFFFFF"
-            alt="GitHub Streak"
-          />
-        </a>
+            src="https://github-readme-streak-stats-eight.vercel.app?user=AnonymousX1025&theme=default&hide_border=true"
+            alt="GitHub Streak">
+        </picture>
       </td>
     </tr>
   </table>
@@ -23,5 +34,5 @@
   <img
     src="https://github.com/AnonymousX1025/AnonymousX1025/raw/master/resources/hr.gif"
     width="100%"
-  />
+    alt="divider">
 </div>
