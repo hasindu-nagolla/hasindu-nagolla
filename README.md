@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;AI+%7C+Machine+Learning+%7C+NLP;Building+Intelligent+Systems;Researching+Low-Resource+Languages" />
+</p>
+
 <table>
   <tr>
     <td align="center">
@@ -14,3 +18,5 @@
     </td>
   </tr>
 </table>
+
+<img src="https://github.com/AnonymousX1025/AnonymousX1025/raw/master/resources/hr.gif" width="100%" alt="divider" />
